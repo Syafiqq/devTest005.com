@@ -39,3 +39,6 @@ ERROR - 2015-09-06 20:15:14 --> Severity: Error --> Call to a member function cr
 ERROR - 2015-09-06 20:19:00 --> Severity: Notice --> Undefined property: ddl::$jancok /home/project/Documents/JetBrains/PhpStorm/devTest005.com/application/controllers/Ddl.php 38
 ERROR - 2015-09-06 20:19:00 --> Severity: Error --> Call to a member function create() on a non-object /home/project/Documents/JetBrains/PhpStorm/devTest005.com/application/controllers/Ddl.php 38
 ERROR - 2015-09-06 20:25:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2 INT(11))' at line 1 - Invalid query: CREATE TABLE IF NOT EXISTS t1(2 INT(11));
+ERROR - 2015-09-06 22:10:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2015-09-06 22:11:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2015-09-06 22:11:04 --> 404 Page Not Found: Faviconico/index

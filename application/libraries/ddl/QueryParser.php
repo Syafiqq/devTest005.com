@@ -8,7 +8,6 @@
 
 class QueryParser
 {
-
     public function parseQuery($tableName, $tableData)
     {
         $query = "";

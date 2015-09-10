@@ -17,8 +17,6 @@ function createNewField(varname, key)
     return html;
 }
 
-
-
 function createFieldName(varname, key)
 {
     return '<input class="name" type="text" name="'+varname+'['+key+'][fieldName]" value="" id="name" placeholder="Field Name"/>'

@@ -53,6 +53,7 @@ $route['default_controller'] = 'welcome';
 $route['register'] = 'auth/registration';
 $route['logon'] = 'auth/logon';
 $route['create'] = 'ddl/create';
+$route['read'] = 'ddl/read';
 /*$route['faker'] = 'auth/faker';
 $route['browser'] = 'auth/browser';
 $route['calendar'] = 'auth/calendar';*/

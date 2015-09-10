@@ -13,7 +13,6 @@ echo '<span style="background-color: red">'.(isset($error['dataField'])?(isset($
 echo form_open(isset($destination) ? $destination : base_url('ddl/create'),
     isset($formAttr) ? $formAttr : array());
 {
-
     echo "<div class=\"form-group\" id=\"tableName\">";
     {
         echo form_input(array('type' => "text", 'name' => "tableName", 'id' => "tableName", 'placeholder' => "Table Name"));
